@@ -34,7 +34,7 @@
     Los movimientos se guardan en un arreglo de objetos en tiempo real. Aunque no se usa una base de datos, esta estructura permite manipular fácilmente los datos (filtrar, editar, eliminar).
 
 ## Enlace al proyecto desplegado:
-
+https://laurasalas-dev.github.io/lab12-excepciones/
 
 
 
